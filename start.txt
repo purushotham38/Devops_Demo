@@ -1,6 +1,3 @@
  Test gir Quick start demo
  project
- git fetch demo
- new commits added to the file
-
  
