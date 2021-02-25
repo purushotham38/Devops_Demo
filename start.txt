@@ -1,3 +1,9 @@
  Test gir Quick start demo
+<<<<<<< HEAD
  project
  
+=======
+ maven is a build tool
+>>>>>>> f98f1fb23aff1adc13fcce153d272e69b73da99d
+
+jenkins is used for CI/CD
