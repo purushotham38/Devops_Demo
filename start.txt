@@ -1,2 +1,3 @@
  Test gir Quick start demo
  project
+ git fetch demo
